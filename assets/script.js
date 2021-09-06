@@ -7,7 +7,7 @@ var getUserRepos = function() {
 
 
 
-<script src="./assets/js/homepage.js"></script>
+<script src="./assets/script.js"></script>
 </body>
 
 </html>
